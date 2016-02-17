@@ -1,6 +1,4 @@
 
-# Created by https://www.gitignore.io/api/phpstorm,osx,sublimetext,intellij,vim,windows
-
 ### PhpStorm ###
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio and Webstorm
 
@@ -176,3 +174,11 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+### CodeIgniter ###
+*/config/development
+*/logs/log-*.php
+!*/logs/index.html
+*/cache/*
+!*/cache/index.html
+!*/cache/.htaccess
