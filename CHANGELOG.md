@@ -2,6 +2,14 @@
 All notable changes to this project will be documented to this file.
 Change Log history will be recorded in descending order
 
+## 0.0.3
+** Added Files **
+- jrating.php AJAX function
+
+** Modified Files **
+-Viewer.php
+-Welcome.php
+
 ## 0.0.2
 ** Modified Files **
 - config.php
